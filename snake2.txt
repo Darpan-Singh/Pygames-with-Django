@@ -1,0 +1,8 @@
+Requirements:
+
+1. pygame
+2. python 3
+
+Description:
+
+A simple change in the classic snake game. Instead of the snake growing in size when it eats a fruit, the food cell changes into an obstacle for the snake, while the snake does not grow. The score is based on how many fruits are eaten. The game gets progressively more difficult as the snake keeps eating more and more fruits, just like the classic snake game.
